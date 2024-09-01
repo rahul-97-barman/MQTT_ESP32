@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+"rahulproject" is an IoT system using an ESP32 to monitor temperature and humidity with a DHT22 sensor, control a servo motor, and manage a WS2812 LED strip. It connects to Wi-Fi and communicates with an MQTT broker for real-time data updates and remote control, ideal for smart home automation.
